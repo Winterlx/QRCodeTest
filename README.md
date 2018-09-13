@@ -1,2 +1,3 @@
-# QRCodeTest
-A demo to genetate QRCode with ZXing.
+#ReadMe
+##Overview
+A test with QRCOde Generator using **ZXing**。
